@@ -1,64 +1,18 @@
+<h1 align="center">⭐Hola Yo soy⭐ XxCmbRxX</h1>
+<h3 align="center">SOY creador de contenido de Super Mario 64, SM64EX-COOP ANDROID dando guías y Configuraciones para una mayor experiencia a la hora de jugar</h3>
 
-## Installation in Termux
-> Update Termux repositories.
-```bash
-yes|pkg update && yes|pkg upgrade
-```
-> Grant storage permissions to Termux.
-```bash
-termux-setup-storage
-```
-> Install "git" version control software.
-```bash
-yes|pkg install git
-```
-> Clone github repository.
-```bash
-git clone https://github.com/Darkmux/cyberspy.git
-```
-> Access the cloned "cyberspy" folder.
-```bash
-cd cyberspy
-```
-> Grant execute permissions to all files with extension (.sh).
-```bash
-chmod 777 *.sh
-```
-> Run the installer.
-```bash
-bash cyberspy.sh
-```
-## New Commands Available
-> The main command is `spy` which is used along with its arguments for it to work properly:
-## Arguments Available
-> Shows a help menu on the use of cyberspy in the terminal.
-```bash
-spy help
-```
-> Shows the list of tools or banners available to use and install.
-```bash
-spy list <tools|banners|prompts>
-```
-> Find and update CyberSpy to its latest version.  (Run it whenever they enter the terminal).
-```bash
-spy update
-```
-> Completely uninstall CyberSpy and go back to the default Termux (only use it if you don't like cyberspy).
-```bash
-spy uninstall
-```
-> Changes the size of the banner depending on the specified argument.  (It is recommended to adapt it to your font size in Termux).
-```bash
-spy style <banner|prompt>
-```
-> Installs the tool specified as an argument.
-```bash
-spy install <tool>
-```
-> Removes the tool specified as an argument.
-```bash
-spy remove <tool>
-```
-> Reinstall the tool specified as argument.
-```bash
-spy reinstall <tool>
+- 🍄Trabajo en Youtube🍄 [Creador de contenido](www.youtube.com/@xxcmbrxx)
+
+- SUBO VIDEOS A YOUTUBE Y CONTENIDO EN DISCORD [XxCmbRxX Discord](https://discord.gg/CdCujG4WcU)
+
+- Contacto Discord **@xxcmbrxx**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/xxcmbrxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xxcmbrxx" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/CdCujG4WcU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/CdCujG4WcU" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
+￼Enter
