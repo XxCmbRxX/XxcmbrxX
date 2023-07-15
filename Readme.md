@@ -1,8 +1,6 @@
 <h1 align="center">⭐Hola Yo soy⭐ XxCmbRxX</h1>
 <h3 align="center">SOY creador de contenido de Super Mario 64, SM64EX-COOP ANDROID dando guías y Configuraciones para una mayor experiencia a la hora de jugar</h3>
 
-- 🍄Trabajo en Youtube🍄 [Creador de contenido](www.youtube.com/@xxcmbrxx)
-
 - SUBO VIDEOS A YOUTUBE Y CONTENIDO EN DISCORD [XxCmbRxX Discord](https://discord.gg/CdCujG4WcU)
 
 - Contacto Discord **@xxcmbrxx**
